@@ -1,0 +1,55 @@
+p {
+    text-align: center;
+    line-height: 25px;
+    color: rgb(0, 0, 0); 
+    font-family: 'Old Standard TT', serif; 
+    line-height: 1.8em;
+    font-size: 1em;
+    letter-spacing: 0.03em;
+}
+
+#navbar {
+    background-color: rgb(255, 255, 255);
+}
+
+#scrollspyHeading1 {
+    color: black;
+    font-family: 'Old Standard TT', serif;
+    font-weight: bold;
+    text-align: center;
+    letter-spacing: 0.18em;
+}
+.card {
+    width: 800px; 
+    margin: 0 auto;
+    border: none; 
+}
+
+.nav-link {
+    color: black; 
+    font-family: 'Old Standard TT', serif; 
+    font-size: 1.27em;
+    letter-spacing: 0.14em;
+}
+
+.nav-link:hover {
+    color: rgb(161, 109, 118); 
+    text-decoration: underline;
+}
+
+.welcome {
+    font-style: italic;
+}
+
+h4 {
+    font-family: 'Old Standard TT', serif;
+    font-weight: bold;
+    text-align: center;
+    letter-spacing: 0.18em;
+}
+
+.language-icons {
+    display: flex;
+    justify-content: space-evenly;
+
+}
